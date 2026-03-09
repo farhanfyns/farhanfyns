@@ -39,4 +39,4 @@
 
 ### 💬 Communities
 
-ex <br> → ex
+. <br> → .
