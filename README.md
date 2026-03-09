@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Farhan Faturahman</h1>
 
-<!--
-**farhanfyns/farhanfyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Well, I'm something of a developer myself. Bachelor's in Informatics, making projects for work and "for fun" (it's mostly work).</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- Artificial Intelligence (AI)
+- Data
+
+### Working Board
+
+
+1. Newer Repos
+
+### Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanfaturahman)
