@@ -6,7 +6,7 @@
 <h1 align="center">Farhan Faturahman</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&speed=5&pause=2500&color=3A6FAD&center=true&vCenter=true&width=500&height=25&lines=git+commit+-m+%22it+works+on+my+machine%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&speed=5&pause=2500&color=3A6FAD&center=true&vCenter=true&width=500&height=25&lines=git+blame-someone-else" alt="Typing SVG" /></a>
 </p>
 
 <p>Well, I'm something of a developer myself.
