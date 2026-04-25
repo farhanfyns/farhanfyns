@@ -29,7 +29,7 @@ Gmail: [faturahmanfarhanff@gmail.com](mailto:faturahmanfarhanff@gmail.com)
 **Contacts** <br>
 GitHub: [@farhanfyns](https://github.com/farhanfyns)<br>
 LinkedIn: [@farhanfaturahman](https://www.linkedin.com/in/farhanfaturahman) <br>
-Instagram:[@farhanfyns](https://www.instagram.com/farhanfyns)
+Instagram: [@farhanfyns](https://www.instagram.com/farhanfyns)
 
 ### 💬 Communities
 
