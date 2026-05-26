@@ -5,7 +5,7 @@
 <br>
 <h1 align="center">Farhan Faturahman</h1>
 
-<p>Bachelor's in Informatics, making projects for work and "for fun" (it's mostly work).</p>
+<p>Bachelor's in Informatics (Computer Science), making projects for work and for fun.</p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=farhanfyns&style=flat-square&color=3A6FAD)
 
@@ -23,14 +23,6 @@
 
 ### 🔗 Socials
 
-**Emails** <br>
-Gmail: [faturahmanfarhanff@gmail.com](mailto:faturahmanfarhanff@gmail.com)
-
 **Contacts** <br>
-GitHub: [@farhanfyns](https://github.com/farhanfyns)<br>
 LinkedIn: [@farhanfaturahman](https://www.linkedin.com/in/farhanfaturahman) <br>
 Instagram: [@farhanfyns](https://www.instagram.com/farhanfyns)
-
-### 💬 Communities
-
-. <br> → .
